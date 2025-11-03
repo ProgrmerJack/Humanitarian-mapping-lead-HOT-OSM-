@@ -1,0 +1,4 @@
+"session_date","task_id","validator","decision","buildings_fixed","roads_fixed_km","notes"
+"2025-10-31","32710-0415","A. Karimov","validated",5,0.00,"Squared footprints, resolved overlapping courtyard polygons."
+"2025-10-31","32710-0419","S. Qureshi","invalidated",0,0.10,"Returned for mapper follow-up – primary road misaligned; left comment with correction steps."
+"2025-10-31","32710-0422","L. Smith","validated",3,0.05,"Adjusted roof offset, added missing service road tags."

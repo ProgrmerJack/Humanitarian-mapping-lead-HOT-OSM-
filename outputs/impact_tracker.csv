@@ -1,0 +1,5 @@
+"session_date","source","tasks_mapped","tasks_validated","tasks_invalidated","buildings_added","roads_km_added","notes"
+"2025-10-30","HOT TM Stats tab",42,0,0,1180,2.4,"Pre-mapathon snapshot captured via TM stats panel (simulated)."
+"2025-10-30","HOT Analytics export",0,0,0,1180,2.4,"Humanitarian OSM Analytics query (project filter 32710) downloaded as CSV."
+"2025-10-31","HOT TM Stats tab",15,36,9,640,1.1,"Post-validation clinic counts: tasks cleared + follow-up flags."
+"2025-10-31","HOT Analytics export",0,0,0,640,1.1,"Analytics refresh after clinic aligning with TM progress."
